@@ -10,6 +10,10 @@ nav:
   - Architecture: architecture.md
   - Daily:
       - 2026-06: daily/2026-06.md
+  - Reports:
+      - Overview: reports/index.md
+      - Done List: reports/done/index.md
+      - To Read List: reports/to_read/index.md
   - Research Themes:
       - Overview: themes/index.md
       - Analyst:
