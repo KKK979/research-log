@@ -12,15 +12,20 @@ nav:
       - 2026-06: daily/2026-06.md
   - Reports:
       - Overview: reports/index.md
-      - Done List:
+      - Done:
           - Overview: reports/done/index.md
+          - High Frequency: reports/done/high_frequence.md
+          - Fundamental: reports/done/fundamental.md
+          - Alternative Alpha: reports/done/alternative_alpha.md
+          - LLM: reports/done/LLM.md
           - Analyst: reports/done/analyst.md
-      - To Read List:
-           - Overview: reports/to_read/index.md
-           - Analyst: reports/to_read/analyst.md
-           - Fundamental: reports/to_read/fundamental.md
-           - High Frequency: reports/to_read/high_frequence.md
-           - LLM Papers: reports/to_read/llm_paper.md
+      - To Read:
+          - Overview: reports/to_read/index.md
+          - High Frequency: reports/to_read/high_frequence.md
+          - Fundamental: reports/to_read/fundamental.md
+          - Alternative Alpha: reports/to_read/alternative_alpha.md
+          - LLM: reports/to_read/LLM.md
+          - Analyst: reports/to_read/analyst.md
   - Research Themes:
       - Overview: themes/index.md
       - Analyst:
